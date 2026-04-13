@@ -21,7 +21,6 @@ The implementation covers:
 week07/
  ├── monday/
  │   ├── assignment.ipynb
- │   ├── utils.py
  │   └── README.md
 ```
 
