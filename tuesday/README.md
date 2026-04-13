@@ -12,6 +12,19 @@ This assignment focuses on:
 
 ---
 
+## 📁 Folder Structure
+
+```
+week07/
+ └── tuesday/
+      ├── assignment.ipynb
+      ├── README.md
+```
+
+* `assignment.ipynb` → Contains all code and explanations for Q1 and Q2
+* `README.md` → Documentation, setup instructions, and observations
+
+
 ## 📂 Dataset
 
 * ShopSense E-Commerce Reviews dataset
