@@ -19,7 +19,7 @@ The implementation covers:
 
 ```
 week07/
- ├── monday/
+ ├── wednesday/
  │   ├── assignment.ipynb
  │   └── README.md
 ```
